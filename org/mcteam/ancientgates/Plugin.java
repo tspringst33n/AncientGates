@@ -181,7 +181,7 @@ public class Plugin extends JavaPlugin {
 	// -------------------------------------------- //
 	// Auto-reload config
 	// -------------------------------------------- //
-	public void reload(CommandSender sender) {
+/*	public void reload(CommandSender sender) {
 		// Takedown BungeeCord support
 		if (!Conf.bungeeCordSupport && pluginMessengerListener != null) takedownBungeeCord();
 		if (serv != null) takedownSocketComms();
@@ -241,7 +241,7 @@ public class Plugin extends JavaPlugin {
 			pluginMovementListener = null;
 		}
 	}
-	
+	*/
 	// -------------------------------------------- //
 	// Setup optional dependencies
 	// -------------------------------------------- //
