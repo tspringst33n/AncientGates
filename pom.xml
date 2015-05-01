@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.mcteam.ancientgates</groupId>
 	<artifactId>AncientGates</artifactId>
-	<version>1.9.0</version>
+	<version>1.9.1</version>
 	<name>AncientGates</name>
 	<build>
 		<finalName>AncientGates</finalName>
