@@ -1,10 +1,7 @@
-name: AncientGates
-version: 1.8.0
-description: Easily create portals with any custom design.
 main: org.mcteam.ancientgates.Plugin
-load: postworld
-author: peewi96
-softdepend: [Vault, Multiverse-Core, MultiWorld]
+name: AncientGates
+version: 1.9.0
+description: Easily create portals with any custom design.
 commands:
   gate:
     description: All of the Ancient Gates commands.
